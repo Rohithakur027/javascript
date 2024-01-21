@@ -30,4 +30,5 @@ const myFunction = function(){
 
 console.log(typeof heros);
 
-// 
+// null => object
+// function => function object
