@@ -1,5 +1,5 @@
 // number 
-// variable
+// symbol
 // bigInt
 // null = standalone value
 // undefined 
